@@ -20,11 +20,12 @@ author: Dr. Meizhu Li
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  HOME: "aboutme"
+  PUBLICATIONS:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  TEACHING: "https://deanattali.com"
+  NEWS:"news"
 
 ################
 # --- Logo --- #
