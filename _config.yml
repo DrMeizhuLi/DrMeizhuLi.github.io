@@ -20,7 +20,7 @@ author: Dr. Meizhu Li
 ###############################################
 
 navbar-links:
-  HOME: "aboutme"
+  AboutMe: "aboutme"
   PUBLICATIONS:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
