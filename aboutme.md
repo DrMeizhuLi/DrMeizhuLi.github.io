@@ -1,17 +1,21 @@
 ---
 layout: page
-title: 李美竹 Dr. Meizhu Li
-subtitle: 江苏大学资格教授,硕士研究生导师
+title: 李美竹 Meizhu Li
+subtitle: 江苏大学资格教授, 硕士研究生导师
 ---
 
 个人简介：
 本人受国家留学基金委(CSC)及根特大学BOF项目资助，博士毕业于比利时根特大学，获计算机科学专业工学博士学位。毕业后加入江苏大学计算机科学与通信工程学院，受聘江苏大学资格教授。近年来在国际期刊和会议上共发表论文20余篇，包括高被引论文2篇。担任Information Sciences, IJAR, EAAI等期刊审稿人。
+
+---
 
 课题组介绍：
 遥感技术及信息融合课题组主要致力于遥感图像处理、人工智能算法、信息融合理论等方面的相关研究。课题组设有理论、应用等不同方向的课题，结合学生擅长领域及技术实现“因材施教”。
 课题组开放一系列研究项目，并资助研究者参加国内国际会议，高水平论文投稿，以及专利著作申请。特别优秀的同学可推荐至国内外合作院校攻读硕博，如比利时根特大学，荷兰莱顿大学，意大利米兰理工大学，美国范德堡大学，德国洪堡大学，西北工业大学，电子科技大学，厦门大学，中国地质大学，哈尔滨工业大学等。
 
 欢迎有意愿的同学和我联系，科研的世界同样很大，我们一起去看看！
+
+---
 
 研究方向（Research Directions）：
 - 人工智能 (Artificial Intelligence)
@@ -36,6 +40,3 @@ subtitle: 江苏大学资格教授,硕士研究生导师
 
 
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
