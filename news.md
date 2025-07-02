@@ -4,7 +4,8 @@ title: News
 subtitle: 
 ---
 
-课程教学(Courses)
+<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/HSI.png?raw=true">
+
 ---
 
 - 《人工智能》计算机科学与技术专业，信息安全专业，40学时。
