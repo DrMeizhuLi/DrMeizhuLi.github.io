@@ -8,7 +8,9 @@ subtitle: 李美竹，江苏大学资格教授, 硕士研究生导师
 ---
 本人受国家留学基金委(CSC)及根特大学BOF项目资助，博士毕业于比利时根特大学，获计算机科学专业工学博士学位。毕业后加入江苏大学计算机科学与通信工程学院，受聘江苏大学资格教授。近年来在国际期刊和会议上共发表论文20余篇，包括高被引论文2篇。担任Information Fusion, IJAR, EAAI等期刊审稿人。
 
-本人Google Scholar个人主页：<https://scholar.google.com/citations?user=ubgaSQIAAAAJ&hl=zh-CN>。
+本人Google Scholar个人主页：
+
+<https://scholar.google.com/citations?user=ubgaSQIAAAAJ&hl=zh-CN>。
 
 ---
 
@@ -42,15 +44,17 @@ subtitle: 李美竹，江苏大学资格教授, 硕士研究生导师
 ---
 - 国家自然科学基金-青年基金，主持，在研(2024-2026)，30万；
 - 江苏大学高级人才科研启动基金，主持，在研（2023-2028），40万；
+- 比利时政府BOF-CSC联合基金，主持，结题，5万欧元；
+- 国家留学基金委CSC公派留学生项目，主持，结题，6万欧元；
 - 重庆市研究生创新项目，主持，结题，1万；
 - 中央高校基本科研业务费项目，主持，结题，1万；
 - 国家自然科学基金-面上项目，参研，结题，60万。
 
 ---
 
-荣誉获奖(Honor)：
+荣誉奖励(Honor)：
 ---
 - 2025年入选镇江市青年科技人才托举工程；
 - 2025年入选江苏大学“青年英才培育计划”青年骨干教师；
-- 2019及2021年两次在ICSIP国际会议中获得Best presentation award。
+- ICSIP国际会议Best presentation award。
 
