@@ -6,7 +6,7 @@ subtitle:
 
 2025
 ---
-- Li L, Rong P, Li M*. Combining Permutation Mass Functions based on distance and entropy of Random Permutation Set[J].*Information Sciences*, 2025, 692: 121657.
+- Li L, Rong P, Li M\*. Combining Permutation Mass Functions based on distance and entropy of Random Permutation Set[J].*Information Sciences*, 2025, 692: 121657.
 - Feng D, Li M, Zhang Q. Node clustering in complex networks based on structural similarity[J]. *Physica A: Statistical Mechanics and its Applications*, 2025, 658: 130274.
 
 ---
@@ -24,7 +24,7 @@ subtitle:
 
 2022
 ---
-- Zhang Q, Li M*. A betweenness structural entropy of complex networks[J]. *Chaos, Solitons & Fractals*, 2022, 161: 112264.
+- Zhang Q, Li M\*. A betweenness structural entropy of complex networks[J]. *Chaos, Solitons & Fractals*, 2022, 161: 112264.
 - Li M. Robust classification models for hyperspectral images[D]. Ghent University, 2022.（PhD Thesis）
 
 ---
@@ -65,7 +65,7 @@ subtitle:
 
 2016
 ---
-- Zhang Q, Li M*, Deng Y. A new structure entropy of complex networks based on nonextensive statistical mechanics[J]. *International Journal of Modern Physics C*, 2016, 27(10): 1650118.
+- Zhang Q, Li M\*, Deng Y. A new structure entropy of complex networks based on nonextensive statistical mechanics[J]. *International Journal of Modern Physics C*, 2016, 27(10): 1650118.
 - Li M, Zhang Q, Deng Y. A new probability transformation based on the ordered visibility graph[J]. *International Journal of Intelligent Systems*, 2016, 31(1): 44-67.
 - Li M, Hu Y, Zhang Q, et al. A novel distance function of D numbers and its application in product engineering[J]. *Engineering Applications of Artificial Intelligence*, 2016, 47: 61-67.
 
