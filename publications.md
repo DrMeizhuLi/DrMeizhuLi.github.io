@@ -7,31 +7,31 @@ subtitle:
 研究图解(Research Illustration)
 ---
 
-1. 高光谱图像分类(Hyperspectral Image Classification)
+1.高光谱图像分类(Hyperspectral Image Classification)
 
 <p align="center">
 <img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/HSI.png?raw=true">
 </p>
 
-2. 高光谱图像标签噪声清洗(Label Cleansing of Hyperspectral Images)
+2.高光谱图像标签噪声清洗(Label Cleansing of Hyperspectral Images)
 
 <p align="center">
 <img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/noise.png?raw=true">
 </p>
 
-3. 不确定信息建模(Modeling of Uncertainty)
+3.不确定信息建模(Modeling of Uncertainty)
 
 <p align="center">
 <img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/uncertain.png?raw=true">
 </p>
 
-4. 跨模态遥感图像融合(Multi-modal Remote Sensing Images Fusion)
+4.跨模态遥感图像融合(Multi-modal Remote Sensing Images Fusion)
 
 <p align="center">
 <img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/fusion.png?raw=true">
 </p>
 
-5. 多源信息融合(Multi-sourced Information Fusion)
+5.多源信息融合(Multi-sourced Information Fusion)
 
 <p align="center">
 <img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/NON.png?raw=true" width = 1000 height = 700>
