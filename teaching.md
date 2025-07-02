@@ -54,18 +54,12 @@ subtitle:
 
 本科生
 
-已指导本科毕业设计29项，以下仅列举跟随课题组做科研、项目以及竞赛的本科生毕业去向。
-
 - 张智轩，计算机科学与技术专业，2021级，升学至香港大学。
 - 孙智鑫，智能科学与技术，2021级，升学至江苏大学。
 - 刘贤宇，智能科学与技术，2021级，升学至江苏大学。
 
----
-
-2025
----
-- Ding K, Li M, Zhang Q. A location centrality of nodes in complex networks[J]. International Journal of Modern Physics C, 2025.
-- Li L, Rong P, Li M\*. Combining Permutation Mass Functions based on distance and entropy of Random Permutation Set[J].*Information Sciences*, 2025, 692: 121657.
-- Feng D, Li M, Zhang Q. Node clustering in complex networks based on structural similarity[J]. *Physica A: Statistical Mechanics and its Applications*, 2025, 658: 130274.
+已指导本科毕业设计29项，此处仅列举跟随课题组做科研、项目以及竞赛的本科生毕业去向。
 
 ---
+
+
