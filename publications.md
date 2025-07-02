@@ -8,7 +8,9 @@ subtitle:
 ---
 - Li L, Rong P, Li M*. Combining Permutation Mass Functions based on distance and entropy of Random Permutation Set[J]. Information Sciences, 2025, 692: 121657.
 - Feng D, Li M, Zhang Q. Node clustering in complex networks based on structural similarity[J]. Physica A: Statistical Mechanics and its Applications, 2025, 658: 130274.
+
 ---
+
 2024
 ---
 - Zhang Z, Li M, Zhang Q. A clustering coefficient structural entropy of complex networks[J]. Physica A: Statistical Mechanics and its Applications, 2024, 655: 130170.
@@ -16,11 +18,15 @@ subtitle:
 - Zhang Q, Deng R, Ding K, et al. Structural analysis and the sum of nodes’ betweenness centrality in complex networks[J]. Chaos, Solitons & Fractals, 2024, 185: 115158.
 - Li M, Li L, Zhang Q. A new distance measure between two basic probability assignments based on penalty coefficient[J]. Information Sciences, 2024, 677: 120883.
 - Li M, Zhou M, Feng D, et al. Range changeable local structural information of nodes in complex networks[J]. International Journal of Modern Physics C, 2024, 35(01): 2450006.
+
+
 ---
+
 2022
 ---
 - Zhang Q, Li M*. A betweenness structural entropy of complex networks[J]. Chaos, Solitons & Fractals, 2022, 161: 112264.
 - Li M. Robust classification models for hyperspectral images[D]. Ghent University, 2022.（PhD Thesis）
+
 ---
 2021
 ---
