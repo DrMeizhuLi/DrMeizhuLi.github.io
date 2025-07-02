@@ -52,8 +52,8 @@ subtitle:
 
 2018
 ---
-- Li M, Zhang Q, Deng Y. Evidential identification of influential nodes in network of networks[J]. *Chaos, Solitons & Fractals*, 2018, 117: 283-296. (Hignly Cited Paper)
-- Zhang Q, Li M, Deng Y. Measure the structure similarity of nodes in complex networks based on relative entropy[J]. *Physica A: Statistical Mechanics and its Applications*, 2018, 491: 749-763.(Hignly Cited Paper)
+- Li M, Zhang Q, Deng Y. Evidential identification of influential nodes in network of networks[J]. *Chaos, Solitons & Fractals*, 2018, 117: 283-296. **(Hignly Cited Paper)**
+- Zhang Q, Li M, Deng Y. Measure the structure similarity of nodes in complex networks based on relative entropy[J]. *Physica A: Statistical Mechanics and its Applications*, 2018, 491: 749-763.**(Hignly Cited Paper)**
 
 ---
 
