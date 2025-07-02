@@ -4,9 +4,26 @@ title: Publications
 subtitle: 
 ---
 
-主要研究方向图解(Research Direction Illustration)
+研究图解(Research Illustration)
 ---
+
 1. 高光谱图像分类(Hyperspectral Image Classification)
+
+<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/HSI.png?raw=true" width = 900 height = 500>
+
+2. 高光谱图像标签噪声清洗(Label Cleansing of Hyperspectral Images)
+
+<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/HSI.png?raw=true" width = 900 height = 500>
+
+3. 不确定信息建模(Modeling of Uncertainty)
+
+<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/HSI.png?raw=true" width = 900 height = 500>
+
+4. 跨模态遥感图像融合(Multi-modal Remote Sensing Images Fusion)
+
+<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/HSI.png?raw=true" width = 900 height = 500>
+
+5. 多源信息融合(Multi-sourced Information Fusion)
 
 <img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/HSI.png?raw=true" width = 900 height = 500>
 
