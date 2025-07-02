@@ -28,42 +28,57 @@ subtitle:
 - Li M. Robust classification models for hyperspectral images[D]. Ghent University, 2022.（PhD Thesis）
 
 ---
+
 2021
 ---
 - Li M, Huang S, Pižurica A. The Impact of Non-uniform Label Noise on the Classification of Hyperspectral Images[C]//2021 IEEE 6th International Conference on Signal and Image Processing (ICSIP). IEEE, 2021: 326-330.
 - Li M, Huang S, Pizurica A. The impact of label noise on the classification models for hyperspectral images[J]. IMAGE PROCESSING & COMMUNICATIONS, 2021, 24(1): 1-9.
 - Li M, Huang S, Pizurica A. A study on the label noise impact on the hyperspectral image classification[C]//IEICE Information and Communication Technology Forum 2020 (ICTF 2020). IEICE Europe Section, 2021, 64.
+
 ---
+
 2020
 ---
 - Li M, Huang S, De Bock J, et al. A robust dynamic classifier selection approach for hyperspectral images with imprecise label information[J]. Sensors, 2020, 20(18): 5262.
+
 ---
+
 2019
 ---
 - Li M, Huang S, Piˇzurica A. Robust dynamic classifier selection for remote sensing image classification[C]//2019 IEEE 4th International Conference on Signal and Image Processing (ICSIP). IEEE, 2019: 101-105.
 - Li M, De Bock J, De Cooman G. Dynamic classifier selection based on imprecise probabilities: A case study for the naive bayes classifier[C]//Uncertainty Modelling in Data Science 9. Springer International Publishing, 2019: 149-156.
+
 ---
+
 2018
 ---
 - Li M, Zhang Q, Deng Y. Evidential identification of influential nodes in network of networks[J]. Chaos, Solitons & Fractals, 2018, 117: 283-296. (Hignly Cited Paper)
 - Li M, De Bock J, De Cooman G. Dynamic classifier selection based on imprecise probabilities: A case study for the naive bayes classifier[C]//Uncertainty Modelling in Data Science 9. Springer International Publishing, 2019: 149-156.
 - Zhang Q, Li M, Deng Y. Measure the structure similarity of nodes in complex networks based on relative entropy[J]. Physica A: Statistical Mechanics and its Applications, 2018, 491: 749-763.(Hignly Cited Paper)
+
 ---
+
 2017
 ---
 - Li M, De Bock J, De Cooman G. Imprecise Classification of the Gram Status of the Causal Pathogen of Clinical Mastitis[C]//The Tenth International Symposium on Imprecise Probability: Theories and Applications (ISIPTA’17). 2017.
+
 ---
+
 2016
 ---
 - Zhang Q, Li M*, Deng Y. A new structure entropy of complex networks based on nonextensive statistical mechanics[J]. International Journal of Modern Physics C, 2016, 27(10): 1650118.
 - Li M, Zhang Q, Deng Y. A new probability transformation based on the ordered visibility graph[J]. International Journal of Intelligent Systems, 2016, 31(1): 44-67.
 - Li M, Hu Y, Zhang Q, et al. A novel distance function of D numbers and its application in product engineering[J]. Engineering Applications of Artificial Intelligence, 2016, 47: 61-67.
+
 ---
+
 2015
 ---
 - Cao L, Li M, Sadiq R, et al. Developing environmental indices using fuzzy numbers power average (FN-PA) operator[J]. International Journal of System Assurance Engineering and Management, 2015, 6: 139-149.
 - Zhang Q, Luo C, Li M, et al. Tsallis information dimension of complex networks[J]. Physica A: Statistical Mechanics and its Applications, 2015, 419: 707-717.
+
 ---
+
 2014
 ---
 - Li M, Lu X, Zhang Q, et al. Multiscale probability transformation of basic probability assignment[J]. Mathematical Problems in Engineering, 2014, 2014(1): 319264.
