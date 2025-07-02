@@ -4,6 +4,11 @@ title: Publications
 subtitle: 
 ---
 
+主要研究方向图解(Research Direction Illustration)
+---
+- 高光谱图像分类(Hyperspectral Image Classification)
+![hyperspectral](\assets\img\funding)
+
 2025
 ---
 - Li L, Rong P, Li M\*. Combining Permutation Mass Functions based on distance and entropy of Random Permutation Set[J].*Information Sciences*, 2025, 692: 121657.
