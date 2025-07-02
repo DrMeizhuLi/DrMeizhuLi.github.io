@@ -6,7 +6,7 @@ subtitle:
 
 2025
 ---
-- Li L, Rong P, Li M*. Combining Permutation Mass Functions based on distance and entropy of Random Permutation Set[J]. Information Sciences, 2025, 692: 121657.
+- Li L, Rong P, Li M*. Combining Permutation Mass Functions based on distance and entropy of Random Permutation Set[J]. <font color=#E9967A>Information Sciences</font>, 2025, 692: 121657.
 - Feng D, Li M, Zhang Q. Node clustering in complex networks based on structural similarity[J]. Physica A: Statistical Mechanics and its Applications, 2025, 658: 130274.
 
 ---
