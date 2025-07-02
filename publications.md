@@ -16,20 +16,26 @@ subtitle:
 2. 高光谱图像标签噪声清洗(Label Cleansing of Hyperspectral Images)
 
 <p align="center">
-<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/NON.png?raw=true">
+<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/noise.png?raw=true">
 </p>
 
 3. 不确定信息建模(Modeling of Uncertainty)
 
-<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/uncertain.png?raw=true" width = 950 height = 500>
+<p align="center">
+<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/uncertain.png?raw=true">
+</p>
 
 4. 跨模态遥感图像融合(Multi-modal Remote Sensing Images Fusion)
 
-<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/HSI.png?raw=true" width = 900 height = 500>
+<p align="center">
+<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/fusion.png?raw=true">
+</p>
 
 5. 多源信息融合(Multi-sourced Information Fusion)
 
+<p align="center">
 <img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/NON.png?raw=true" width = 1000 height = 700>
+</p>
 
 ---
 
