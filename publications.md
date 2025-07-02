@@ -8,7 +8,7 @@ subtitle:
 ---
 - 高光谱图像分类(Hyperspectral Image Classification)
 
-<img src="assets\img\funding.png" width = 300 height = 200>
+<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/funding.png?raw=true" width = 300 height = 200>
 
 
 2025
