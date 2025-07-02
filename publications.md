@@ -9,11 +9,11 @@ subtitle:
 
 1. 高光谱图像分类(Hyperspectral Image Classification)
 
-<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/HSI.png?raw=true" width = 950 height = 500>
+<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/HSI.png?raw=true" width = 1000 height = 500>
 
 2. 高光谱图像标签噪声清洗(Label Cleansing of Hyperspectral Images)
 
-<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/NON.png?raw=true" width = 950 height = 700>
+<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/NON.png?raw=true" width = 1000 height = 700>
 
 3. 不确定信息建模(Modeling of Uncertainty)
 
@@ -25,7 +25,7 @@ subtitle:
 
 5. 多源信息融合(Multi-sourced Information Fusion)
 
-<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/HSI.png?raw=true" width = 900 height = 500>
+<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/NON.png?raw=true" width = 1000 height = 700>
 
 ---
 
