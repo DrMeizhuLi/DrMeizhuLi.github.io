@@ -7,7 +7,9 @@ subtitle:
 主要研究方向图解(Research Direction Illustration)
 ---
 - 高光谱图像分类(Hyperspectral Image Classification)
-<img src=".\assets\img\funding.png">
+
+<img src="assets/img/career.png" alt="Description of Image" height="60" width="60">
+
 
 2025
 ---
