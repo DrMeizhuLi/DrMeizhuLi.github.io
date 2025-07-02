@@ -21,9 +21,9 @@ author: Dr. Meizhu Li
 
 navbar-links:
   AboutMe: "aboutme"
-  PUBLICATIONS: "publications.md"
-  TEACHING: "teaching.md"
-  NEWS: "news.md"
+  PUBLICATIONS: "publications"
+  TEACHING: "teaching"
+  NEWS: "news"
 
 ################
 # --- Logo --- #
