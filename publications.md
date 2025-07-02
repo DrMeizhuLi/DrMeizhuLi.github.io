@@ -15,7 +15,9 @@ subtitle:
 
 2. 高光谱图像标签噪声清洗(Label Cleansing of Hyperspectral Images)
 
-<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/NON.png?raw=true" width = 1000 height = 700>
+<p align="center">
+<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/NON.png?raw=true">
+</p>
 
 3. 不确定信息建模(Modeling of Uncertainty)
 
