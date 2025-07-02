@@ -12,7 +12,6 @@ subtitle:
 <html>
 <head>
 <meta charset="utf-8">
-<title>简介</title>
 </head>
 <body>
     <h1><img src="assets/img/career.png" alt="Description of Image" height="60" width="60">欢迎来到“地表最强”信息加工厂！</h1>
