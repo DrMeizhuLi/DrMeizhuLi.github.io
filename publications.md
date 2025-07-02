@@ -9,7 +9,7 @@ subtitle:
 
 1. 高光谱图像分类(Hyperspectral Image Classification)
 
-<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/HSI.png?raw=true" width = 1000 height = 500>
+<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/HSI.png?raw=true" width = 1000 height = 400>
 
 2. 高光谱图像标签噪声清洗(Label Cleansing of Hyperspectral Images)
 
