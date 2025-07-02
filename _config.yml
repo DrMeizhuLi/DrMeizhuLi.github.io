@@ -21,7 +21,7 @@ author: Dr. Meizhu Li
 
 navbar-links:
   AboutMe: "aboutme"
-  PUBLICATIONS:"publications.md"
+  PUBLICATIONS: "publications.md"
   TEACHING: "teaching.md"
   NEWS: "news.md"
 
