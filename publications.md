@@ -6,7 +6,7 @@ subtitle:
 
 主要研究方向图解(Research Direction Illustration)
 ---
-- 高光谱图像分类(Hyperspectral Image Classification)
+1. 高光谱图像分类(Hyperspectral Image Classification)
 
 <img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/funding.png?raw=true" width = 300 height = 200>
 
