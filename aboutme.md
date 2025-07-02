@@ -24,7 +24,7 @@ subtitle: 李美竹，江苏大学资格教授, 硕士研究生导师
 
 ---
 
-研究方向（Research Directions）：
+研究方向(Research Directions)：
 ---
 - 人工智能 (Artificial Intelligence)
 - 信息融合 (Information Fusion)
