@@ -19,7 +19,7 @@ subtitle:
 <img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/noise.png?raw=true">
 </p>
 
-3.不确定信息建模(Modeling of Uncertainty)
+3.不确定信息建模(Modelling of Uncertainty)
 
 <p align="center">
 <img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/uncertain.png?raw=true">
