@@ -4,8 +4,7 @@ title: News
 subtitle: 
 ---
 
-<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/news.png?raw=true">News
-
+<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/news.png?raw=true" height="60" width="60"> News
 ---
 
 - 《人工智能》计算机科学与技术专业，信息安全专业，40学时。
