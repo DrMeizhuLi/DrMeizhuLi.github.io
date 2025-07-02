@@ -4,7 +4,7 @@ title: News
 subtitle: 
 ---
 
-<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/HSI.png?raw=true">
+<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/news.png?raw=true">News
 
 ---
 
