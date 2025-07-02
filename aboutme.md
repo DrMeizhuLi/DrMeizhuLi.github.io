@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 李美竹 Meizhu Li
-subtitle: 江苏大学资格教授, 硕士研究生导师
+title: About Me
+subtitle: 李美竹，江苏大学资格教授, 硕士研究生导师
 ---
 
 个人简介(Introduction)：
