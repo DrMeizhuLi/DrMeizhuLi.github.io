@@ -9,7 +9,7 @@ subtitle:
 
 1.高光谱图像分类(Hyperspectral Image Classification)
 
-针对高光谱等遥感图像进行分类任务，同时关注其在小样本、标签噪声等特定环境下的解决方案。
+针对高光谱等遥感图像进行分类任务，同时关注其在小样本、标签噪声等特定环境下的解决方案。（该方向需要进行较多实验，与其他CV任务类似，运气不好的话需要较长周期）
 
 <p align="center">
 <img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/HSI.png?raw=true">
@@ -18,7 +18,7 @@ subtitle:
 
 2.多源信息融合(Multi-sourced Information Fusion)
 
-基于证据理论等不确定信息处理方法，解决多源信息的冲突处理，有效结合多源数据特征进行有效决策。
+基于D-S证据理论等不确定信息处理方法，对信息进行不确定性建模、融合、冲突处理以及决策。（该方向需要较多推导，无需大量实验，出成果快）
 
 <p align="center">
 <img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/NON.png?raw=true" width = 1000 height = 700>
@@ -26,11 +26,12 @@ subtitle:
 
 3.跨模态遥感图像融合(Multi-modal Remote Sensing Images Fusion)
 
-基于深度学习等先进技术，结合多源信息融合思想，实现跨模态遥感图像的特征对齐、融合等。
+基于深度学习等先进技术，结合多源信息融合思想，实现跨模态遥感图像的特征对齐、融合等。（该方向可偏实验亦可偏推导，视具体小方向而定）
 
 <p align="center">
 <img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/fusion.png?raw=true">
 </p>
+
 
 ---
 
