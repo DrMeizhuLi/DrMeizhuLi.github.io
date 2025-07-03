@@ -9,32 +9,27 @@ subtitle:
 
 1.高光谱图像分类(Hyperspectral Image Classification)
 
+针对高光谱等遥感图像进行分类任务，同时关注其在小样本、标签噪声等特定环境下的解决方案。
+
 <p align="center">
 <img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/HSI.png?raw=true">
 </p>
 
-2.高光谱图像标签噪声清洗(Label Cleansing of Hyperspectral Images)
 
-<p align="center">
-<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/noise.png?raw=true">
-</p>
+2.多源信息融合(Multi-sourced Information Fusion)
 
-3.不确定信息建模(Modelling of Uncertainty)
-
-<p align="center">
-<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/uncertain.png?raw=true">
-</p>
-
-4.跨模态遥感图像融合(Multi-modal Remote Sensing Images Fusion)
-
-<p align="center">
-<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/fusion.png?raw=true">
-</p>
-
-5.多源信息融合(Multi-sourced Information Fusion)
+基于证据理论等不确定信息处理方法，解决多源信息的冲突处理，有效结合多源数据特征进行有效决策。
 
 <p align="center">
 <img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/NON.png?raw=true" width = 1000 height = 700>
+</p>
+
+3.跨模态遥感图像融合(Multi-modal Remote Sensing Images Fusion)
+
+基于深度学习等先进技术，结合多源信息融合思想，实现跨模态遥感图像的特征对齐、融合等。
+
+<p align="center">
+<img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/fusion.png?raw=true">
 </p>
 
 ---
