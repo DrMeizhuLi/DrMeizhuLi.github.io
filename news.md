@@ -10,6 +10,8 @@ subtitle:
 - 2025.06，恭喜本科生张智轩同学顺利毕业并升学至香港大学！
 - 2025.06，恭喜本科生孙智鑫同学、刘贤宇同学顺利毕业并升学至江苏大学！
 - 2025.06，恭喜研究生陈青雯同学顺利毕业并就职南京小米！
+- 2024.11，恭喜研究生陈青雯同学的学术论文获评江苏省研究生“互联网+”与智能电气化农业装备学术创新论坛优秀论文三等奖！
+- 2024.10，恭喜本科生李林山同学的学术论文被中科院一区期刊Information Sciences录用！
 
 ---
 
@@ -27,7 +29,7 @@ subtitle:
 - Workshop on Machine Learning in High-dimensional Data Processing (2019), Ghent, Belgium.
 - The 5th International Conference on Belief Functions (BELIEF 2018) and 9th International Conference on Soft Methods in Probability and Statistics (SMPS 2018), Compiègne, France.
 - The 8th Summer School on Imprecise Probabilities: Theory and Applications (2018), Oviedo, Spain.
-- The 11th Workshop on Principles and Methods of Statistical Inference with Interval Probability (WPMSIIP 2018), Oviedo, Spain
+- The 11th Workshop on Principles and Methods of Statistical Inference with Interval Probability (WPMSIIP 2018), Oviedo, Spain.
 - Poster presentation on ISIPTA & ECSQARU Conference (2017), Lugano, Switzerland.
 - 西南大学含弘讲堂（自然科学类）第一名（2015），重庆，中国.
   
