@@ -18,11 +18,11 @@ subtitle:
 <img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/orga.png?raw=true" height="60" width="60"> Conferences and Talks
 ---
 
-- 第八届证据推理与人工智能(ERAI2025)学术会议暨第二届数据解析与决策智能研讨会（2025.04），成都，中国.
-- “生成模型的构建:Deepseek在智能生成中的启发与应用”研讨会（2025.03），杭州，中国.
-- 江苏省研究生“互联网+”与智能电气化农业装备学术创新论坛（2024.11），镇江，中国.
-- 第七届证据推理与人工智能(ERAI2024)学术会议（2024.08），银川，中国.
-- 多媒体智能理解研讨会，协助承办会议（2023.12），苏州，中国.
+- 第八届证据推理与人工智能(ERAI2025)学术会议暨第二届数据解析与决策智能研讨会(2025.04),成都,中国.
+- “生成模型的构建:Deepseek在智能生成中的启发与应用”研讨会(2025.03),杭州,中国.
+- 江苏省研究生“互联网+”与智能电气化农业装备学术创新论坛(2024.11),镇江,中国.
+- 第七届证据推理与人工智能(ERAI2024)学术会议(2024.08),银川,中国.
+- 多媒体智能理解研讨会，协助承办会议(2023.12),苏州,中国.
 - IEEE 6th International Conference on Signal and Image Processing (ICSIP 2021), Nanjing, China.
 - IEICE Information and Communication Technology Forum, (ICTF 2020), Niš, Serbia.
 - IEEE 4th International Conference on Signal and Image Processing (ICSIP 2019), Wuxi, China.
