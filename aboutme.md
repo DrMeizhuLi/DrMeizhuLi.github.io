@@ -59,3 +59,7 @@ subtitle: 李美竹, 江苏大学资格教授, 硕士研究生导师
 - 重庆市优秀硕士学位论文（省部级）；
 - 重庆市优秀毕业研究生（省部级）。
 
+---
+
+![](https://komarev.com/ghpvc/?username=drmeizhuli.github.io&style=flat-square)
+
