@@ -7,6 +7,8 @@ subtitle:
 <img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/news.png?raw=true" height="60" width="60"> News
 ---
 
+- 2025.09，恭喜本科生李林山同学成功保研至浙江大学！
+- 2025.09，恭喜本科生吴妮妮同学成功保研至中国石油大学！
 - 2025.09，恭喜本科生李林山和吴妮妮同学获得研究生推免资格!
 - 2025.08，恭喜研究生李诺同学的学术论文被SCI期刊录用！
 - 2025.06，恭喜本科生张智轩同学顺利毕业并升学至香港大学！
