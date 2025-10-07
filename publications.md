@@ -39,8 +39,12 @@ PS: 图片可能需连接VPN后刷新尝试
 
 2025
 ---
-- Ding K, Li M, Zhang Q. A location centrality of nodes in complex networks[J]. International Journal of Modern Physics C, 2025.
+- Li M, Zhang Q. Local entropy and nonextensivity of networks ensemble[J]. *Communications in Nonlinear Science and Numerical Simulation*, 2025: 109369.
+- Li N, Mao Q, Li M\*. AFCN: A Unified Framework for Fine-Grained Ship Classification via Cascaded Attention and Multi-Scale Fusion[J]. *Signal, Image and Video Processing*, 2025, 19(12): 963.
 - Li L, Rong P, Li M\*. Combining Permutation Mass Functions based on distance and entropy of Random Permutation Set[J].*Information Sciences*, 2025, 692: 121657.
+- Feng D, Chen L, Li M\*, et al. Node clustering in complex networks based on the euclidean distance of structural characteristics[J]. *Chaos, Solitons & Fractals*, 2025, 201: 117249.
+- Xian Y, Li M, Zhang Q. A k-shell decomposition structural entropy of complex networks[J]. *Physica A: Statistical Mechanics and its Applications*, 2025: 130859.
+- Ding K, Li M, Zhang Q. A location centrality of nodes in complex networks[J]. *International Journal of Modern Physics C*, 2025: 2550133.
 - Feng D, Li M, Zhang Q. Node clustering in complex networks based on structural similarity[J]. *Physica A: Statistical Mechanics and its Applications*, 2025, 658: 130274.
 
 ---
