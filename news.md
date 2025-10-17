@@ -23,6 +23,7 @@ subtitle:
 <img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/orga.png?raw=true" height="60" width="60"> Conferences and Talks
 ---
 
+- 第十二届全国人机语音通讯学术会议（NCMMSC）（2025.10），镇江，中国. （教程报告主席）
 - 第八届证据推理与人工智能(ERAI2025)学术会议暨第二届数据解析与决策智能研讨会(2025.04),成都,中国.
 - “生成模型的构建:Deepseek在智能生成中的启发与应用”研讨会(2025.03),杭州,中国.
 - 江苏省研究生“互联网+”与智能电气化农业装备学术创新论坛(2024.11),镇江,中国.
