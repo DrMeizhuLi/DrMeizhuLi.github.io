@@ -40,6 +40,7 @@ PS: 图片可能需连接VPN后刷新尝试
 2026
 ---
 - Li M, Zhang Q. Local entropy and nonextensivity of networks ensemble[J]. *Communications in Nonlinear Science and Numerical Simulation*, 2026，152: 109369.
+- Xian Y, Chen L, Li M\*, et al. Topological complexity quantification in hypergraphs networks via hyperedge-based entropic measures[J]. *Pysics Letters A*, 2026, 569:131233.
 
 
 2025
