@@ -60,7 +60,7 @@ PS: 图片可能需连接VPN后刷新尝试
 ---
 - Zhang Z, Li M, Zhang Q. A clustering coefficient structural entropy of complex networks[J]. *Physica A: Statistical Mechanics and its Applications*, 2024, 655: 130170.
 - Li M, Li L, Zhang Q. Information Fusion and Decision-Making Utilizing Additional Permutation Information[J]. *Mathematics*, 2024, 12(22): 3632.
-- Zhang Q, Deng R, Ding K, et al. Structural analysis and the sum of nodes’ betweenness centrality in complex networks[J]. *Chaos, Solitons & Fractals*, 2024, 185: 115158.
+- Zhang Q, Deng R, Ding K, Li M\*. Structural analysis and the sum of nodes’ betweenness centrality in complex networks[J]. *Chaos, Solitons & Fractals*, 2024, 185: 115158.
 - Li M, Li L, Zhang Q. A new distance measure between two basic probability assignments based on penalty coefficient[J]. *Information Sciences*, 2024, 677: 120883.
 - Li M, Zhou M, Feng D, et al. Range changeable local structural information of nodes in complex networks[J]. *International Journal of Modern Physics C*, 2024, 35(01): 2450006.
 
