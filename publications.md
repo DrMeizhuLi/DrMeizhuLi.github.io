@@ -39,6 +39,7 @@ PS: 图片可能需连接VPN后刷新尝试
 
 2026
 ---
+- Li M, Li L, Zhang Z, et al. A novel method for generating permutation mass functions using permutations to represent class bias[J]. Expert Systems with Applications, 2026: 132004.
 - Li M, Zhang Q. Local entropy and nonextensivity of networks ensemble[J]. *Communications in Nonlinear Science and Numerical Simulation*, 2026，152: 109369.
 - Xian Y, Chen L, Li M\*, et al. Topological complexity quantification in hypergraphs networks via hyperedge-based entropic measures[J]. *Pysics Letters A*, 2026, 569:131233.
 - Zhang C, Xian Y, Yuan X, Li M\*, et al. Restricted Network Reconstruction from Time Series via Dempster–Shafer Evidence Theory[J]. *Entropy*, 2026.
