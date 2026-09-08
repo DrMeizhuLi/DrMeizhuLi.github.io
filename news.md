@@ -7,6 +7,8 @@ subtitle:
 <img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/news.png?raw=true" height="60" width="60"> News
 ---
 
+- 2026.09，恭喜本科生吴妮妮同学的学术论文被中科院二区期刊《Neurocomputing》录用！
+- 2026.08，恭喜研究生王乐乐同学的学术论文被中科院一区期刊《Pattern Recognition》录用！
 - 2026.03，恭喜本科生李林山同学的学术论文被中科院一区期刊《Expert Systems with Applications》录用！
 - 2026.03，恭喜研究生房瑞彤同学的学术论文被SCI期刊录用！
 - 2025.09，恭喜本科生李林山同学成功保研至浙江大学！
@@ -25,6 +27,7 @@ subtitle:
 <img src="https://github.com/DrMeizhuLi/DrMeizhuLi.github.io/blob/master/assets/img/orga.png?raw=true" height="60" width="60"> Conferences and Talks
 ---
 
+- 量子计算与三进制信息处理研讨会（2026.03），恩施，中国.
 - 第二十届全国人机语音通讯学术会议（NCMMSC）（2025.10），镇江，中国. （教程报告主席）
 - 第八届证据推理与人工智能(ERAI2025)学术会议暨第二届数据解析与决策智能研讨会(2025.04),成都,中国.
 - “生成模型的构建:Deepseek在智能生成中的启发与应用”研讨会(2025.03),杭州,中国.
