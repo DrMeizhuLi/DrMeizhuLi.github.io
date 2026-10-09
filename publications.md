@@ -41,7 +41,7 @@ PS: 图片可能需连接VPN后刷新尝试
 ---
 
 - Li M, Wang L, Huang S, et al. Hyperspectral image classification under label noise via multi-scale dual-view graph and dual-homogeneity[J]. *Pattern Recognition*, 2027, 183: 114848.
-- Li M, Wu N, Zhang Q. Evidence-fused quantification of structural similarity in complex networks[J]. *Neurocomputing*, 2026: 135051.
+- Li M, Wu N, Zhang Q. Evidence-fused quantification of structural similarity in complex networks[J]. *Neurocomputing*, 2027, 707: 135051.
 
 
 2026
