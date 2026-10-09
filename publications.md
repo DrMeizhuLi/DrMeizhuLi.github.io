@@ -37,13 +37,24 @@ PS: 图片可能需连接VPN后刷新尝试
 
 ---
 
+2027
+---
+
+- Li M, Wang L, Huang S, et al. Hyperspectral image classification under label noise via multi-scale dual-view graph and dual-homogeneity[J]. *Pattern Recognition*, 2027, 183: 114848.
+- Li M, Wu N, Zhang Q. Evidence-fused quantification of structural similarity in complex networks[J]. *Neurocomputing*, 2026: 135051.
+
+
 2026
 ---
-- Li M, Li L, Zhang Z, et al. A novel method for generating permutation mass functions using permutations to represent class bias[J]. Expert Systems with Applications, 2026: 132004.
+
+- Li M, Li L, Zhang Z, et al. A novel method for generating permutation mass functions using permutations to represent class bias[J]. *Expert Systems with Applications*, 2026: 132004.
 - Li M, Zhang Q. Local entropy and nonextensivity of networks ensemble[J]. *Communications in Nonlinear Science and Numerical Simulation*, 2026，152: 109369.
+- Xian Y, Zhang Z, Zhang C, Li M, et al. Evidential reconstruction of network from time series[J]. *Chaos, Solitons & Fractals*, 2026, 211: 118866.
+- Zhang Z, Xian Y, Sun L, Li M\*, et al. Link prediction of complex networks based on path-penalized collective influence[J]. *Physica A: Statistical Mechanics and its Applications*, 2026: 132003.
 - Fang R, Zhan B, Li M, et al. DANTP: Data Augmentation Network Based on Transformation Prediction for Hyperspectral Image Classification with Label Noise[J]. *Signal, Image and Video Processing*, 2026, 20(4): 247.
 - Xian Y, Chen L, Li M\*, et al. Topological complexity quantification in hypergraphs networks via hyperedge-based entropic measures[J]. *Pysics Letters A*, 2026, 569:131233.
-- Zhang C, Xian Y, Yuan X, Li M\*, et al. Restricted Network Reconstruction from Time Series via Dempster–Shafer Evidence Theory[J]. Entropy, 2026, 28(2): 148.
+- Ding K, Li M\*, Zhang Q\*. A location centrality of nodes in complex networks[J]. *International Journal of Modern Physics C*, 2026, 37(08): 2550133.
+- Zhang C, Xian Y, Yuan X, Li M\*, et al. Restricted Network Reconstruction from Time Series via Dempster–Shafer Evidence Theory[J]. *Entropy*, 2026, 28(2): 148.
 
 
 2025
